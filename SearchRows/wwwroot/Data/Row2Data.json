@@ -1,0 +1,4892 @@
+[
+  {
+      "PRIMARY_ID": 1782,
+      "ID": 40928,
+      "NAME": "CELALİYE"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40911,
+      "NAME": "DURSUNKÖY"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40485,
+      "NAME": "MAVİGÖL"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40680,
+      "NAME": "YENİKÖY"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40668,
+      "NAME": "KİREÇBURNU"
+  },
+  {
+      "PRIMARY_ID": 2003,
+      "ID": 40147,
+      "NAME": "DENİZKÖŞKLER"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40830,
+      "NAME": "YAVUZTÜRK"
+  },
+  {
+      "PRIMARY_ID": 2050,
+      "ID": null,
+      "NAME": "ASKERİ BÖLGE"
+  },
+  {
+      "PRIMARY_ID": 1782,
+      "ID": 99334,
+      "NAME": "ÇAKMAKLI"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40706,
+      "NAME": "MERKEZ"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 98685,
+      "NAME": "ALTINŞEHİR"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 40363,
+      "NAME": "EMNİYETTEPE"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40663,
+      "NAME": "EMİRGAN"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40666,
+      "NAME": "İSTİNYE"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 98689,
+      "NAME": "ÇAMLIK"
+  },
+  {
+      "PRIMARY_ID": 1739,
+      "ID": 40836,
+      "NAME": "VELİEFENDİ"
+  },
+  {
+      "PRIMARY_ID": 1739,
+      "ID": 40841,
+      "NAME": "SEYİTNİZAM"
+  },
+  {
+      "PRIMARY_ID": 1166,
+      "ID": 40201,
+      "NAME": "ATAKÖY 3-4-11. KISIM"
+  },
+  {
+      "PRIMARY_ID": 1166,
+      "ID": 40196,
+      "NAME": "ATAKÖY 7-8-9-10. KISIM"
+  },
+  {
+      "PRIMARY_ID": 1739,
+      "ID": 40839,
+      "NAME": "TELSİZ"
+  },
+  {
+      "PRIMARY_ID": 1739,
+      "ID": 40833,
+      "NAME": "YENİDOĞAN"
+  },
+  {
+      "PRIMARY_ID": 1166,
+      "ID": 40188,
+      "NAME": "OSMANİYE"
+  },
+  {
+      "PRIMARY_ID": 2051,
+      "ID": 40894,
+      "NAME": "YAKUPLU"
+  },
+  {
+      "PRIMARY_ID": 2051,
+      "ID": 40875,
+      "NAME": "BARIŞ"
+  },
+  {
+      "PRIMARY_ID": 2003,
+      "ID": 40148,
+      "NAME": "CİHANGİR"
+  },
+  {
+      "PRIMARY_ID": 2015,
+      "ID": 40724,
+      "NAME": "CAMİ"
+  },
+  {
+      "PRIMARY_ID": 2051,
+      "ID": 40869,
+      "NAME": "ADNAN KAHVECİ"
+  },
+  {
+      "PRIMARY_ID": 2015,
+      "ID": 40720,
+      "NAME": "AYDINLI"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40673,
+      "NAME": "POLİGON"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40672,
+      "NAME": "PINAR"
+  },
+  {
+      "PRIMARY_ID": 1421,
+      "ID": 40510,
+      "NAME": "HASANPAŞA"
+  },
+  {
+      "PRIMARY_ID": 2004,
+      "ID": 40159,
+      "NAME": "İNÖNÜ"
+  },
+  {
+      "PRIMARY_ID": 2004,
+      "ID": 40166,
+      "NAME": "KİRAZLI"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40326,
+      "NAME": "MOLLA FENARİ"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40316,
+      "NAME": "HOCA GIYASETTİN"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40312,
+      "NAME": "DEMİRTAŞ"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40322,
+      "NAME": "MERCAN"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40693,
+      "NAME": "FERİKÖY"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40699,
+      "NAME": "HARBİYE"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40692,
+      "NAME": "ESKİŞEHİR"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40284,
+      "NAME": "ŞAHKULU"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40488,
+      "NAME": "KARLIBAYIR"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40492,
+      "NAME": "TAŞOLUK"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40906,
+      "NAME": "ÖMERLİ"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40299,
+      "NAME": "ARAP CAMİ"
+  },
+  {
+      "PRIMARY_ID": 2004,
+      "ID": 40163,
+      "NAME": "ÇINAR"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 98700,
+      "NAME": "PARSELLER"
+  },
+  {
+      "PRIMARY_ID": 2054,
+      "ID": 40775,
+      "NAME": "MERVE"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 40748,
+      "NAME": "ATAKENT"
+  },
+  {
+      "PRIMARY_ID": 2010,
+      "ID": 40501,
+      "NAME": "HAZNEDAR"
+  },
+  {
+      "PRIMARY_ID": 2010,
+      "ID": 40497,
+      "NAME": "AKINCILAR"
+  },
+  {
+      "PRIMARY_ID": 2010,
+      "ID": 40502,
+      "NAME": "MAREŞAL ÇAKMAK"
+  },
+  {
+      "PRIMARY_ID": 2010,
+      "ID": 40496,
+      "NAME": "MERKEZ"
+  },
+  {
+      "PRIMARY_ID": 1166,
+      "ID": 40200,
+      "NAME": "BASINKÖY"
+  },
+  {
+      "PRIMARY_ID": 1782,
+      "ID": 40848,
+      "NAME": "FATİH"
+  },
+  {
+      "PRIMARY_ID": 1810,
+      "ID": 40553,
+      "NAME": "YEŞİLCE"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 40901,
+      "NAME": "OVAYENİCE"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 40899,
+      "NAME": "ÇAKIL"
+  },
+  {
+      "PRIMARY_ID": 1739,
+      "ID": 40837,
+      "NAME": "ÇIRPICI"
+  },
+  {
+      "PRIMARY_ID": 2049,
+      "ID": 40816,
+      "NAME": "ÖRNEK"
+  },
+  {
+      "PRIMARY_ID": 2049,
+      "ID": 40740,
+      "NAME": "MUSTAFA KEMAL"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": 40756,
+      "NAME": "MERKEZ"
+  },
+  {
+      "PRIMARY_ID": 2054,
+      "ID": 40574,
+      "NAME": "VEYSEL KARANİ"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40337,
+      "NAME": "TAHTAKALE"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40317,
+      "NAME": "HOCAPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1782,
+      "ID": 40844,
+      "NAME": "ALKENT 2000"
+  },
+  {
+      "PRIMARY_ID": 2051,
+      "ID": 40874,
+      "NAME": "CUMHURİYET"
+  },
+  {
+      "PRIMARY_ID": 1823,
+      "ID": 40600,
+      "NAME": "YENİ MAHALLE"
+  },
+  {
+      "PRIMARY_ID": 1823,
+      "ID": 40591,
+      "NAME": "ATATÜRK"
+  },
+  {
+      "PRIMARY_ID": 1782,
+      "ID": 40846,
+      "NAME": "CUMHURİYET"
+  },
+  {
+      "PRIMARY_ID": 2054,
+      "ID": 40771,
+      "NAME": "SAFA"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40908,
+      "NAME": "YEŞİLBAYIR"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40810,
+      "NAME": "KULELİ"
+  },
+  {
+      "PRIMARY_ID": 2050,
+      "ID": 40357,
+      "NAME": "BAŞAK"
+  },
+  {
+      "PRIMARY_ID": 2004,
+      "ID": 40164,
+      "NAME": "SANCAKTEPE"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 98691,
+      "NAME": "ELMALIKENT"
+  },
+  {
+      "PRIMARY_ID": 1782,
+      "ID": 40929,
+      "NAME": "KAMİLOBA"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 40923,
+      "NAME": "MİMAR SİNAN"
+  },
+  {
+      "PRIMARY_ID": 2016,
+      "ID": 40354,
+      "NAME": "HAVAALANI"
+  },
+  {
+      "PRIMARY_ID": 1421,
+      "ID": 40512,
+      "NAME": "CAFERAĞA"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40251,
+      "NAME": "MERKEZ"
+  },
+  {
+      "PRIMARY_ID": 2005,
+      "ID": 40179,
+      "NAME": "SİYAVUŞPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 40737,
+      "NAME": "İNKILAP"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 40739,
+      "NAME": "İSTİKLAL"
+  },
+  {
+      "PRIMARY_ID": 1166,
+      "ID": 40199,
+      "NAME": "ŞENLİKKÖY"
+  },
+  {
+      "PRIMARY_ID": 1823,
+      "ID": 40586,
+      "NAME": "MEHMET AKİF"
+  },
+  {
+      "PRIMARY_ID": 2005,
+      "ID": 40177,
+      "NAME": "BAHÇELİEVLER"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40289,
+      "NAME": "SURURİ MEHMET EFENDİ"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 99143,
+      "NAME": "CİBALİ"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40324,
+      "NAME": "MİMAR HAYRETTİN"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40339,
+      "NAME": "YAVUZ SİNAN"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40335,
+      "NAME": "SÜLEYMANİYE"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40332,
+      "NAME": "SARIDEMİR"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40249,
+      "NAME": "SOĞUKSU"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 98696,
+      "NAME": "MEHMET AKİF"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40659,
+      "NAME": "CUMHURİYET"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 40358,
+      "NAME": "AKŞEMSETTİN"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 40376,
+      "NAME": "TOPÇULAR"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 40361,
+      "NAME": "DEFTERDAR"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40484,
+      "NAME": "YUNUS EMRE"
+  },
+  {
+      "PRIMARY_ID": 1886,
+      "ID": 40207,
+      "NAME": "ALTINTEPSİ"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40632,
+      "NAME": "AHMET YESEVİ"
+  },
+  {
+      "PRIMARY_ID": 1782,
+      "ID": 40868,
+      "NAME": "PINARTEPE"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 40741,
+      "NAME": "YUKARI DUDULLU"
+  },
+  {
+      "PRIMARY_ID": 1810,
+      "ID": 40539,
+      "NAME": "GÜRSEL"
+  },
+  {
+      "PRIMARY_ID": 1183,
+      "ID": 40233,
+      "NAME": "ETİLER"
+  },
+  {
+      "PRIMARY_ID": 1183,
+      "ID": 40232,
+      "NAME": "BEBEK"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40664,
+      "NAME": "FATİH SULTAN MEHMET"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 40909,
+      "NAME": "NAKKAŞ"
+  },
+  {
+      "PRIMARY_ID": 1782,
+      "ID": 40889,
+      "NAME": "HÜRRİYET"
+  },
+  {
+      "PRIMARY_ID": 2055,
+      "ID": 40356,
+      "NAME": "ESKİ HABİPLER"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40645,
+      "NAME": "ORTA"
+  },
+  {
+      "PRIMARY_ID": 2003,
+      "ID": 40152,
+      "NAME": "FİRUZKÖY"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40665,
+      "NAME": "FERAHEVLER"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": 40766,
+      "NAME": "AYDINLAR"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 40374,
+      "NAME": "SAKARYA"
+  },
+  {
+      "PRIMARY_ID": 2055,
+      "ID": 40471,
+      "NAME": "50. YIL"
+  },
+  {
+      "PRIMARY_ID": 1823,
+      "ID": 40606,
+      "NAME": "FATİH"
+  },
+  {
+      "PRIMARY_ID": 2051,
+      "ID": 40893,
+      "NAME": "MARMARA"
+  },
+  {
+      "PRIMARY_ID": 1449,
+      "ID": 40554,
+      "NAME": "ATALAR"
+  },
+  {
+      "PRIMARY_ID": 2003,
+      "ID": 40146,
+      "NAME": "AMBARLI"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 40371,
+      "NAME": "NİŞANCI"
+  },
+  {
+      "PRIMARY_ID": 2055,
+      "ID": 40475,
+      "NAME": "İSMETPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 40373,
+      "NAME": "RAMİ YENİ"
+  },
+  {
+      "PRIMARY_ID": 2051,
+      "ID": 40873,
+      "NAME": "KAVAKLI"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40253,
+      "NAME": "ÇAMLIBAHÇE"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40808,
+      "NAME": "KİRAZLITEPE"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40814,
+      "NAME": "MEHMET AKİF ERSOY"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 98688,
+      "NAME": "CEMİL MERİÇ"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 40375,
+      "NAME": "SİLAHTARAĞA"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 40360,
+      "NAME": "ÇIRÇIR"
+  },
+  {
+      "PRIMARY_ID": 2055,
+      "ID": 40470,
+      "NAME": "ESENTEPE"
+  },
+  {
+      "PRIMARY_ID": 2051,
+      "ID": 40870,
+      "NAME": "DEREAĞZI"
+  },
+  {
+      "PRIMARY_ID": 2015,
+      "ID": 40728,
+      "NAME": "ORHANLI"
+  },
+  {
+      "PRIMARY_ID": 1449,
+      "ID": 40560,
+      "NAME": "GÜMÜŞPINAR"
+  },
+  {
+      "PRIMARY_ID": 2055,
+      "ID": 40473,
+      "NAME": "UĞUR MUMCU"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 40362,
+      "NAME": "DÜĞMECİLER"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40649,
+      "NAME": "ÇAMÇEŞME"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40642,
+      "NAME": "VELİBABA"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40691,
+      "NAME": "ESENTEPE"
+  },
+  {
+      "PRIMARY_ID": 1810,
+      "ID": 40538,
+      "NAME": "GÜLTEPE"
+  },
+  {
+      "PRIMARY_ID": 2055,
+      "ID": 40468,
+      "NAME": "ZÜBEYDE HANIM"
+  },
+  {
+      "PRIMARY_ID": 1166,
+      "ID": 40189,
+      "NAME": "YEŞİLKÖY"
+  },
+  {
+      "PRIMARY_ID": 2049,
+      "ID": 99516,
+      "NAME": "MEVLANA"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40705,
+      "NAME": "MECİDİYEKÖY"
+  },
+  {
+      "PRIMARY_ID": 1810,
+      "ID": 40549,
+      "NAME": "ŞİRİNTEPE"
+  },
+  {
+      "PRIMARY_ID": 1183,
+      "ID": 40236,
+      "NAME": "KONAKLAR"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40655,
+      "NAME": "SÜLÜNTEPE"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40654,
+      "NAME": "KURTKÖY"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40790,
+      "NAME": "CUMHURİYET"
+  },
+  {
+      "PRIMARY_ID": 1886,
+      "ID": 40205,
+      "NAME": "VATAN"
+  },
+  {
+      "PRIMARY_ID": 2050,
+      "ID": 40583,
+      "NAME": "KAYABAŞI"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": 40768,
+      "NAME": "GÜNGÖREN"
+  },
+  {
+      "PRIMARY_ID": 2014,
+      "ID": null,
+      "NAME": "ŞALGAMLI DEVLET ORMANI"
+  },
+  {
+      "PRIMARY_ID": 2010,
+      "ID": 40499,
+      "NAME": "GÜNEŞTEPE"
+  },
+  {
+      "PRIMARY_ID": 2005,
+      "ID": 40185,
+      "NAME": "FEVZİ ÇAKMAK"
+  },
+  {
+      "PRIMARY_ID": 2016,
+      "ID": 40351,
+      "NAME": "TUNA"
+  },
+  {
+      "PRIMARY_ID": 2010,
+      "ID": 40503,
+      "NAME": "SANAYİ"
+  },
+  {
+      "PRIMARY_ID": 2010,
+      "ID": 40505,
+      "NAME": "TOZKOPARAN"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 40736,
+      "NAME": "NAMIK KEMAL"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 40364,
+      "NAME": "ESENTEPE"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 99135,
+      "NAME": "TOPKAPI"
+  },
+  {
+      "PRIMARY_ID": 1739,
+      "ID": 40840,
+      "NAME": "KAZLIÇEŞME"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191925,
+      "NAME": "TEKE"
+  },
+  {
+      "PRIMARY_ID": 1810,
+      "ID": 40551,
+      "NAME": "TELSİZLER"
+  },
+  {
+      "PRIMARY_ID": 2051,
+      "ID": 40867,
+      "NAME": "GÜRPINAR"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 40359,
+      "NAME": "ALİBEYKÖY"
+  },
+  {
+      "PRIMARY_ID": 2055,
+      "ID": 40472,
+      "NAME": "SULTANÇİFTLİĞİ"
+  },
+  {
+      "PRIMARY_ID": 1166,
+      "ID": 40191,
+      "NAME": "SAKIZAĞACI"
+  },
+  {
+      "PRIMARY_ID": 2054,
+      "ID": 40580,
+      "NAME": "OSMANGAZİ"
+  },
+  {
+      "PRIMARY_ID": 2049,
+      "ID": 99749,
+      "NAME": "ATATÜRK"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40656,
+      "NAME": "ÇAMLIK"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40630,
+      "NAME": "ŞEYHLİ"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 98692,
+      "NAME": "ESENEVLER"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40634,
+      "NAME": "GÜZELYALI"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40809,
+      "NAME": "KISIKLI"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40644,
+      "NAME": "ÇINARDERE"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40701,
+      "NAME": "KAPTANPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 98708,
+      "NAME": "YAMANEVLER"
+  },
+  {
+      "PRIMARY_ID": 2054,
+      "ID": 98781,
+      "NAME": "ATATÜRK"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40646,
+      "NAME": "KAVAKPINAR"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40639,
+      "NAME": "RAMAZANOĞLU"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40651,
+      "NAME": "SANAYİ"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40479,
+      "NAME": "İSLAMBEY"
+  },
+  {
+      "PRIMARY_ID": 1166,
+      "ID": 40192,
+      "NAME": "CEVİZLİK"
+  },
+  {
+      "PRIMARY_ID": 2010,
+      "ID": 40504,
+      "NAME": "ABDURRAHMAN NAFİZ GÜRMAN"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40487,
+      "NAME": "BOLLUCA"
+  },
+  {
+      "PRIMARY_ID": 1166,
+      "ID": 40193,
+      "NAME": "ZEYTİNLİK"
+  },
+  {
+      "PRIMARY_ID": 1823,
+      "ID": 40596,
+      "NAME": "FEVZİ ÇAKMAK"
+  },
+  {
+      "PRIMARY_ID": 1739,
+      "ID": 40838,
+      "NAME": "BEŞTELSİZ"
+  },
+  {
+      "PRIMARY_ID": 2051,
+      "ID": 40877,
+      "NAME": "BÜYÜKŞEHİR"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 116251,
+      "NAME": "5.LEVENT"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40912,
+      "NAME": "HASTANE"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 98707,
+      "NAME": "TOPAĞACI"
+  },
+  {
+      "PRIMARY_ID": 1183,
+      "ID": 40229,
+      "NAME": "KÜLTÜR"
+  },
+  {
+      "PRIMARY_ID": 2049,
+      "ID": 40533,
+      "NAME": "KAYIŞDAĞI"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40661,
+      "NAME": "ÇAYIRBAŞI"
+  },
+  {
+      "PRIMARY_ID": 2055,
+      "ID": 40474,
+      "NAME": "CEBECİ"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 98705,
+      "NAME": "TATLISU"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 40745,
+      "NAME": "IHLAMURKUYU"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40637,
+      "NAME": "SAPAN BAĞLARI"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40628,
+      "NAME": "BAHÇELİEVLER"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": null,
+      "NAME": "DEVLET ORMANI"
+  },
+  {
+      "PRIMARY_ID": 1183,
+      "ID": 40221,
+      "NAME": "DİKİLİTAŞ"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40239,
+      "NAME": "PAŞABAHÇE"
+  },
+  {
+      "PRIMARY_ID": 1810,
+      "ID": 40545,
+      "NAME": "NURTEPE"
+  },
+  {
+      "PRIMARY_ID": 1336,
+      "ID": 40456,
+      "NAME": "ŞEMSİPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1336,
+      "ID": 40453,
+      "NAME": "SARIGÖL"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40786,
+      "NAME": "BARBAROS"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40802,
+      "NAME": "İCADİYE"
+  },
+  {
+      "PRIMARY_ID": 2014,
+      "ID": 40942,
+      "NAME": "AHMET YESEVİ"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40700,
+      "NAME": "HUZUR"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": null,
+      "NAME": "DEVLET ORMANI"
+  },
+  {
+      "PRIMARY_ID": 1183,
+      "ID": 40223,
+      "NAME": "BALMUMCU"
+  },
+  {
+      "PRIMARY_ID": 1183,
+      "ID": 40234,
+      "NAME": "AKAT"
+  },
+  {
+      "PRIMARY_ID": 2049,
+      "ID": 40531,
+      "NAME": "KÜÇÜKBAKKALKÖY"
+  },
+  {
+      "PRIMARY_ID": 1782,
+      "ID": 40891,
+      "NAME": "AHMEDİYE"
+  },
+  {
+      "PRIMARY_ID": 2004,
+      "ID": 40170,
+      "NAME": "MAHMUTBEY"
+  },
+  {
+      "PRIMARY_ID": 2012,
+      "ID": 40620,
+      "NAME": "ESENKENT"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40255,
+      "NAME": "TOKATKÖY"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 191839,
+      "NAME": "FENER"
+  },
+  {
+      "PRIMARY_ID": 2055,
+      "ID": 40377,
+      "NAME": "YAYLA"
+  },
+  {
+      "PRIMARY_ID": 2015,
+      "ID": 40729,
+      "NAME": "ORTA"
+  },
+  {
+      "PRIMARY_ID": 1183,
+      "ID": 40220,
+      "NAME": "YILDIZ"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 98669,
+      "NAME": "SULTANTEPE"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 40370,
+      "NAME": "MİTHATPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1183,
+      "ID": 40215,
+      "NAME": "SİNANPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1183,
+      "ID": 40227,
+      "NAME": "ULUS"
+  },
+  {
+      "PRIMARY_ID": 1183,
+      "ID": 40235,
+      "NAME": "LEVENT"
+  },
+  {
+      "PRIMARY_ID": 1810,
+      "ID": 40546,
+      "NAME": "ORTABAYIR"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 40897,
+      "NAME": "FERHATPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1449,
+      "ID": 40572,
+      "NAME": "YUKARI"
+  },
+  {
+      "PRIMARY_ID": 2012,
+      "ID": 40621,
+      "NAME": "GÜLSUYU"
+  },
+  {
+      "PRIMARY_ID": 2054,
+      "ID": 40762,
+      "NAME": "MECLİS"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40254,
+      "NAME": "ORTAÇEŞME"
+  },
+  {
+      "PRIMARY_ID": 2016,
+      "ID": 40345,
+      "NAME": "FEVZİ ÇAKMAK"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40244,
+      "NAME": "GÖKSU"
+  },
+  {
+      "PRIMARY_ID": 1449,
+      "ID": 40573,
+      "NAME": "YUNUS"
+  },
+  {
+      "PRIMARY_ID": 2004,
+      "ID": 40157,
+      "NAME": "BARBAROS"
+  },
+  {
+      "PRIMARY_ID": 2004,
+      "ID": 40158,
+      "NAME": "KAZIM KARABEKİR"
+  },
+  {
+      "PRIMARY_ID": 2004,
+      "ID": 40165,
+      "NAME": "YAVUZ SELİM"
+  },
+  {
+      "PRIMARY_ID": 2012,
+      "ID": 40622,
+      "NAME": "GÜLENSU"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40245,
+      "NAME": "YENİ MAHALLE"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40913,
+      "NAME": "HADIMKÖY"
+  },
+  {
+      "PRIMARY_ID": 1823,
+      "ID": 40602,
+      "NAME": "YEŞİLOVA"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 98702,
+      "NAME": "SİTE"
+  },
+  {
+      "PRIMARY_ID": 1739,
+      "ID": 40843,
+      "NAME": "MALTEPE"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 98699,
+      "NAME": "NECİP FAZIL"
+  },
+  {
+      "PRIMARY_ID": 1449,
+      "ID": 40558,
+      "NAME": "ÇAVUŞOĞLU"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 40922,
+      "NAME": "CUMHURİYET"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 40920,
+      "NAME": "ALİBEY"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 40919,
+      "NAME": "PİRİ MEHMET PAŞA"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40257,
+      "NAME": "BAKLACI"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 40898,
+      "NAME": "KALEİÇİ"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 40925,
+      "NAME": "GAZİTEPE"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 40939,
+      "NAME": "KADIKÖY"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 40927,
+      "NAME": "ALİPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40677,
+      "NAME": "RUMELİ KAVAĞI"
+  },
+  {
+      "PRIMARY_ID": 1421,
+      "ID": 40524,
+      "NAME": "ERENKÖY"
+  },
+  {
+      "PRIMARY_ID": 1421,
+      "ID": 40528,
+      "NAME": "19 MAYIS"
+  },
+  {
+      "PRIMARY_ID": 2004,
+      "ID": 40156,
+      "NAME": "HÜRRİYET"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40671,
+      "NAME": "SARIYER MERKEZ"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 40735,
+      "NAME": "ATATÜRK"
+  },
+  {
+      "PRIMARY_ID": 1421,
+      "ID": 40518,
+      "NAME": "DUMLUPINAR"
+  },
+  {
+      "PRIMARY_ID": 2004,
+      "ID": 40168,
+      "NAME": "GÜNEŞLİ"
+  },
+  {
+      "PRIMARY_ID": 2004,
+      "ID": 40167,
+      "NAME": "YENİMAHALLE"
+  },
+  {
+      "PRIMARY_ID": 1810,
+      "ID": 40541,
+      "NAME": "HAMİDİYE"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 40961,
+      "NAME": "AĞVA MERKEZ"
+  },
+  {
+      "PRIMARY_ID": 1336,
+      "ID": 40464,
+      "NAME": "KARADENİZ"
+  },
+  {
+      "PRIMARY_ID": 1183,
+      "ID": 40218,
+      "NAME": "TÜRKALİ"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40647,
+      "NAME": "FATİH"
+  },
+  {
+      "PRIMARY_ID": 1166,
+      "ID": 40190,
+      "NAME": "YENİMAHALLE"
+  },
+  {
+      "PRIMARY_ID": 1166,
+      "ID": 40197,
+      "NAME": "KARTALTEPE"
+  },
+  {
+      "PRIMARY_ID": 2016,
+      "ID": 40343,
+      "NAME": "NİNE HATUN"
+  },
+  {
+      "PRIMARY_ID": 2003,
+      "ID": 40145,
+      "NAME": "MERKEZ"
+  },
+  {
+      "PRIMARY_ID": 2003,
+      "ID": 40149,
+      "NAME": "ÜNİVERSİTE"
+  },
+  {
+      "PRIMARY_ID": 1166,
+      "ID": 40198,
+      "NAME": "ZUHURATBABA"
+  },
+  {
+      "PRIMARY_ID": 1823,
+      "ID": 40592,
+      "NAME": "İNÖNÜ"
+  },
+  {
+      "PRIMARY_ID": 2016,
+      "ID": 40344,
+      "NAME": "NAMIK KEMAL"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40667,
+      "NAME": "KAZIM KARABEKİR PAŞA"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40658,
+      "NAME": "BÜYÜKDERE"
+  },
+  {
+      "PRIMARY_ID": 1183,
+      "ID": 40231,
+      "NAME": "ARNAVUTKÖY"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191807,
+      "NAME": "KIZILCAALİ"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 191849,
+      "NAME": "BÜYÜK KILIÇLI"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": null,
+      "NAME": "ORMAN"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191811,
+      "NAME": "ÖRCÜNLÜ"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191905,
+      "NAME": "GÖÇE"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 191763,
+      "NAME": "KURTDOĞMUŞ"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191895,
+      "NAME": "YENİKÖY"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191789,
+      "NAME": "ELBASAN"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 181510,
+      "NAME": "BALIKYOLU"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191893,
+      "NAME": "SATMAZLI"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191871,
+      "NAME": "ERENLER"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191869,
+      "NAME": "DARLIK"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 40858,
+      "NAME": "SAADETDERE"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191797,
+      "NAME": "İHSANİYE"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191923,
+      "NAME": "ŞUAYİPLİ"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 40857,
+      "NAME": "ÖRNEK"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40493,
+      "NAME": "MAREŞAL FEVZİ ÇAKMAK"
+  },
+  {
+      "PRIMARY_ID": 1739,
+      "ID": 40832,
+      "NAME": "NURİPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1810,
+      "ID": 40540,
+      "NAME": "HARMANTEPE"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40250,
+      "NAME": "ACARLAR"
+  },
+  {
+      "PRIMARY_ID": 2054,
+      "ID": null,
+      "NAME": "KUZUDERE DEVLET ORMANI"
+  },
+  {
+      "PRIMARY_ID": 1103,
+      "ID": 40141,
+      "NAME": "NİZAM"
+  },
+  {
+      "PRIMARY_ID": 1810,
+      "ID": 40537,
+      "NAME": "EMNİYET EVLERİ"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 98693,
+      "NAME": "FATİH SULTAN MEHMET"
+  },
+  {
+      "PRIMARY_ID": 1810,
+      "ID": 40548,
+      "NAME": "SEYRANTEPE"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40670,
+      "NAME": "MADEN"
+  },
+  {
+      "PRIMARY_ID": 2012,
+      "ID": 40611,
+      "NAME": "KÜÇÜKYALI MERKEZ"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 98709,
+      "NAME": "ESENKENT"
+  },
+  {
+      "PRIMARY_ID": 1449,
+      "ID": 40562,
+      "NAME": "KARLIKTEPE"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 98684,
+      "NAME": "ADEM YAVUZ"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40669,
+      "NAME": "KOCATAŞ"
+  },
+  {
+      "PRIMARY_ID": 2054,
+      "ID": 40759,
+      "NAME": "EMEK"
+  },
+  {
+      "PRIMARY_ID": 2051,
+      "ID": 40876,
+      "NAME": "SAHİL"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 181508,
+      "NAME": "SULTANİYE"
+  },
+  {
+      "PRIMARY_ID": 1166,
+      "ID": 40202,
+      "NAME": "ATAKÖY 1. KISIM"
+  },
+  {
+      "PRIMARY_ID": 1739,
+      "ID": 40842,
+      "NAME": "MERKEZEFENDİ"
+  },
+  {
+      "PRIMARY_ID": 1810,
+      "ID": 40536,
+      "NAME": "ÇELİKTEPE"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40674,
+      "NAME": "PTT EVLERİ"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40657,
+      "NAME": "BALTALİMANI"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40675,
+      "NAME": "REŞİTPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40827,
+      "NAME": "ÜNALAN"
+  },
+  {
+      "PRIMARY_ID": 2049,
+      "ID": 40793,
+      "NAME": "ESATPAŞA"
+  },
+  {
+      "PRIMARY_ID": 2049,
+      "ID": 98687,
+      "NAME": "AŞIKVEYSEL"
+  },
+  {
+      "PRIMARY_ID": 2049,
+      "ID": 40527,
+      "NAME": "BARBAROS"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40290,
+      "NAME": "YAHYA KAHYA"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40269,
+      "NAME": "EMEKYEMEZ"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40331,
+      "NAME": "SARAÇ İSHAK"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40325,
+      "NAME": "MİMAR KEMALETTİN"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40321,
+      "NAME": "KÜÇÜK AYASOFYA"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40264,
+      "NAME": "KAPTANPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40304,
+      "NAME": "HALICIOĞLU"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40283,
+      "NAME": "ÇATMA MESCİT"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40279,
+      "NAME": "İSTİKLAL"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40327,
+      "NAME": "MOLLA HÜSREV"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40319,
+      "NAME": "KALENDERHANE"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40318,
+      "NAME": "KEMALPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40309,
+      "NAME": "BEYAZIT"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40307,
+      "NAME": "ALEMDAR"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40313,
+      "NAME": "EMİN SİNAN"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40914,
+      "NAME": "TERKOS"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 40932,
+      "NAME": "YOLÇATI"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40907,
+      "NAME": "SAZLIBOSNA"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 40372,
+      "NAME": "RAMİ CUMA"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 40368,
+      "NAME": "KARADOLAP"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40650,
+      "NAME": "ORHANGAZİ"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40643,
+      "NAME": "ESENYALI"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40495,
+      "NAME": "FATİH"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40626,
+      "NAME": "DUMLUPINAR"
+  },
+  {
+      "PRIMARY_ID": 1421,
+      "ID": 40511,
+      "NAME": "OSMANAĞA"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 40900,
+      "NAME": "İZZETTİN"
+  },
+  {
+      "PRIMARY_ID": 1810,
+      "ID": 40535,
+      "NAME": "ÇAĞLAYAN"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40788,
+      "NAME": "BULGURLU"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40635,
+      "NAME": "ERTUĞRUL GAZİ"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40641,
+      "NAME": "YAYALAR"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40489,
+      "NAME": "HARAÇÇI"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40330,
+      "NAME": "RÜSTEMPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40711,
+      "NAME": "İNÖNÜ"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40688,
+      "NAME": "CUMHURİYET"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 40926,
+      "NAME": "SEMİZKUMLAR"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": 40755,
+      "NAME": "MEHMET AKİF"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 99132,
+      "NAME": "SİLİVRİKAPI"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 99131,
+      "NAME": "SÜMBÜL EFENDİ"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 99134,
+      "NAME": "MEVLANAKAPI"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191921,
+      "NAME": "SOĞULLU"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40280,
+      "NAME": "HACIAHMET"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40277,
+      "NAME": "KOCATEPE"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191829,
+      "NAME": "KARAMANDERE"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40288,
+      "NAME": "KULOĞLU"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40296,
+      "NAME": "KILIÇALİ PAŞA"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40293,
+      "NAME": "ÇUKUR"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40305,
+      "NAME": "ÖRNEKTEPE"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40291,
+      "NAME": "BOSTAN"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40278,
+      "NAME": "GÜMÜŞSUYU"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40703,
+      "NAME": "MAHMUT ŞEVKET PAŞA"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40697,
+      "NAME": "HALİL RIFAT PAŞA"
+  },
+  {
+      "PRIMARY_ID": 2012,
+      "ID": 40617,
+      "NAME": "AYDINEVLER"
+  },
+  {
+      "PRIMARY_ID": 2015,
+      "ID": 40715,
+      "NAME": "YAYLA"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 40958,
+      "NAME": "HACI KASIM"
+  },
+  {
+      "PRIMARY_ID": 2015,
+      "ID": 40722,
+      "NAME": "ŞİFA"
+  },
+  {
+      "PRIMARY_ID": 1782,
+      "ID": 40892,
+      "NAME": "TÜRKOBA"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40627,
+      "NAME": "DOĞU"
+  },
+  {
+      "PRIMARY_ID": 1183,
+      "ID": 40226,
+      "NAME": "LEVAZIM"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 98695,
+      "NAME": "MADENLER"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 98701,
+      "NAME": "SARAY"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40678,
+      "NAME": "TARABYA"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40491,
+      "NAME": "MEHMET AKİF ERSOY"
+  },
+  {
+      "PRIMARY_ID": 1183,
+      "ID": 40225,
+      "NAME": "ORTAKÖY"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40707,
+      "NAME": "MEŞRUTİYET"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40292,
+      "NAME": "BÜLBÜL"
+  },
+  {
+      "PRIMARY_ID": 1810,
+      "ID": 40544,
+      "NAME": "MEHMET AKİF ERSOY"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40308,
+      "NAME": "BALABANAĞA"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 181516,
+      "NAME": "SELAHADDİN EYYUBİ"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40662,
+      "NAME": "DARÜŞŞAFAKA"
+  },
+  {
+      "PRIMARY_ID": 2049,
+      "ID": 40795,
+      "NAME": "FETİH"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40638,
+      "NAME": "ESENLER"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 191769,
+      "NAME": "GÜMÜŞDERE"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191787,
+      "NAME": "DAĞYENİCE"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40690,
+      "NAME": "ERGENEKON"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40687,
+      "NAME": "BOZKURT"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40696,
+      "NAME": "HALİDE EDİP ADIVAR"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40698,
+      "NAME": "HALASKARGAZİ"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 99129,
+      "NAME": "HASEKİ SULTAN"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 99138,
+      "NAME": "HIRKA-İ ŞERİF"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40328,
+      "NAME": "MUHSİNE HATUN"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40336,
+      "NAME": "ŞEHSUVAR BEY"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40262,
+      "NAME": "FETİHTEPE"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40266,
+      "NAME": "KULAKSIZ"
+  },
+  {
+      "PRIMARY_ID": 2014,
+      "ID": 40948,
+      "NAME": "HASANPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40789,
+      "NAME": "BURHANİYE"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 98667,
+      "NAME": "KÜÇÜKÇAMLICA"
+  },
+  {
+      "PRIMARY_ID": 2012,
+      "ID": 40618,
+      "NAME": "GİRNE"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 191711,
+      "NAME": "ELMALI"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40676,
+      "NAME": "RUMELİ HİSARI"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40660,
+      "NAME": "ÇAMLITEPE"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40267,
+      "NAME": "KADIMEHMET EFENDİ"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191885,
+      "NAME": "KIZILCA"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 191719,
+      "NAME": "POYRAZKÖY"
+  },
+  {
+      "PRIMARY_ID": 2015,
+      "ID": 40716,
+      "NAME": "İÇMELER"
+  },
+  {
+      "PRIMARY_ID": 1886,
+      "ID": 40204,
+      "NAME": "ORTA"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40629,
+      "NAME": "FEVZİ ÇAKMAK"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40640,
+      "NAME": "GÜLLÜ BAĞLAR"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 40916,
+      "NAME": "KARACAKÖY MERKEZ"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191813,
+      "NAME": "ÖRENCİK"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191969,
+      "NAME": "SOFULAR"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40710,
+      "NAME": "YAYLA"
+  },
+  {
+      "PRIMARY_ID": 2012,
+      "ID": 40612,
+      "NAME": "ALTAYÇEŞME"
+  },
+  {
+      "PRIMARY_ID": 2003,
+      "ID": 40154,
+      "NAME": "TAHTAKALE"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40702,
+      "NAME": "KUŞTEPE"
+  },
+  {
+      "PRIMARY_ID": 1183,
+      "ID": 40216,
+      "NAME": "MURADİYE"
+  },
+  {
+      "PRIMARY_ID": 1183,
+      "ID": 40219,
+      "NAME": "ABBASAĞA"
+  },
+  {
+      "PRIMARY_ID": 2012,
+      "ID": 40616,
+      "NAME": "YALI"
+  },
+  {
+      "PRIMARY_ID": 2016,
+      "ID": 40349,
+      "NAME": "YAVUZ SELİM"
+  },
+  {
+      "PRIMARY_ID": 2016,
+      "ID": 40353,
+      "NAME": "TURGUT REİS"
+  },
+  {
+      "PRIMARY_ID": 2016,
+      "ID": 40342,
+      "NAME": "DAVUTPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40787,
+      "NAME": "BEYLERBEYİ"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": 40753,
+      "NAME": "ÇAMLIK"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 40904,
+      "NAME": "FATİH"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 40902,
+      "NAME": "BAHŞAYİŞ"
+  },
+  {
+      "PRIMARY_ID": 2015,
+      "ID": 40725,
+      "NAME": "AKFIRAT"
+  },
+  {
+      "PRIMARY_ID": 1421,
+      "ID": 40509,
+      "NAME": "ACIBADEM"
+  },
+  {
+      "PRIMARY_ID": 1449,
+      "ID": 40570,
+      "NAME": "YAKACIK YENİ"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 40940,
+      "NAME": "SELİMPAŞA"
+  },
+  {
+      "PRIMARY_ID": 2050,
+      "ID": 40872,
+      "NAME": "BAHÇEŞEHİR 2. KISIM"
+  },
+  {
+      "PRIMARY_ID": 1782,
+      "ID": 40882,
+      "NAME": "BAHÇELİEVLER"
+  },
+  {
+      "PRIMARY_ID": 2012,
+      "ID": 40625,
+      "NAME": "BAŞIBÜYÜK"
+  },
+  {
+      "PRIMARY_ID": 2012,
+      "ID": 40619,
+      "NAME": "FINDIKLI"
+  },
+  {
+      "PRIMARY_ID": 2049,
+      "ID": 40534,
+      "NAME": "İNÖNÜ"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40248,
+      "NAME": "RÜZGARLIBAHÇE"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40260,
+      "NAME": "FATİH"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40794,
+      "NAME": "FERAH"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 98670,
+      "NAME": "ZEYNEP KAMİL"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191915,
+      "NAME": "KADIKÖY"
+  },
+  {
+      "PRIMARY_ID": 2012,
+      "ID": 40624,
+      "NAME": "BÜYÜKBAKKALKÖY"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": 191999,
+      "NAME": "SIRAPINAR"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 181524,
+      "NAME": "ŞEHİTLER"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 191979,
+      "NAME": "YENİKÖY"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191883,
+      "NAME": "KARAMANDERE"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191959,
+      "NAME": "KERVANSARAY"
+  },
+  {
+      "PRIMARY_ID": 1421,
+      "ID": 40508,
+      "NAME": "KOŞUYOLU"
+  },
+  {
+      "PRIMARY_ID": 1886,
+      "ID": 40212,
+      "NAME": "KOCATEPE"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40246,
+      "NAME": "GÖZTEPE"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40812,
+      "NAME": "KÜÇÜKSU"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40247,
+      "NAME": "KAVACIK"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191911,
+      "NAME": "HACILLI"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 191843,
+      "NAME": "BÜYÜK SİNEKLİ"
+  },
+  {
+      "PRIMARY_ID": 2015,
+      "ID": null,
+      "NAME": "ASKERİ BÖLGE"
+  },
+  {
+      "PRIMARY_ID": 2004,
+      "ID": 40162,
+      "NAME": "MERKEZ"
+  },
+  {
+      "PRIMARY_ID": 2050,
+      "ID": 40584,
+      "NAME": "ŞAHİNTEPE"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": null,
+      "NAME": "ASKERİ BÖLGE"
+  },
+  {
+      "PRIMARY_ID": 1449,
+      "ID": 40559,
+      "NAME": "ESENTEPE"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40785,
+      "NAME": "BAHÇELİEVLER"
+  },
+  {
+      "PRIMARY_ID": 2054,
+      "ID": 40579,
+      "NAME": "ABDURRAHMANGAZİ"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": 40764,
+      "NAME": "SULTANÇİFTLİĞİ"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 40744,
+      "NAME": "HEKİMBAŞI"
+  },
+  {
+      "PRIMARY_ID": 1823,
+      "ID": 40601,
+      "NAME": "CUMHURİYET"
+  },
+  {
+      "PRIMARY_ID": 2050,
+      "ID": 40581,
+      "NAME": "BAŞAKŞEHİR"
+  },
+  {
+      "PRIMARY_ID": 1886,
+      "ID": 40203,
+      "NAME": "CEVATPAŞA"
+  },
+  {
+      "PRIMARY_ID": 2010,
+      "ID": 40498,
+      "NAME": "GENÇOSMAN"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40240,
+      "NAME": "ÇİĞDEM"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 191705,
+      "NAME": "ANADOLUFENERİ"
+  },
+  {
+      "PRIMARY_ID": 2003,
+      "ID": 40151,
+      "NAME": "GÜMÜŞPALA"
+  },
+  {
+      "PRIMARY_ID": 1103,
+      "ID": 40143,
+      "NAME": "KINALIADA"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 191721,
+      "NAME": "ÖRNEKKÖY"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40490,
+      "NAME": "ADNAN MENDERES"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40828,
+      "NAME": "VALİDE-İ ATİK"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40778,
+      "NAME": "ACIBADEM"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 98664,
+      "NAME": "AHMEDİYE"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": null,
+      "NAME": "ORMAN"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 98666,
+      "NAME": "ÇENGELKÖY"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40238,
+      "NAME": "İNCİRKÖY"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40813,
+      "NAME": "KÜPLÜCE"
+  },
+  {
+      "PRIMARY_ID": 2014,
+      "ID": 40950,
+      "NAME": "MEHMET AKİF"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40320,
+      "NAME": "KATİP KASIM"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 191983,
+      "NAME": "BALABAN"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 181512,
+      "NAME": "SÜLEYMANİYE"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40486,
+      "NAME": "HİCRET"
+  },
+  {
+      "PRIMARY_ID": 2004,
+      "ID": 40176,
+      "NAME": "100. YIL"
+  },
+  {
+      "PRIMARY_ID": 2004,
+      "ID": 40169,
+      "NAME": "15 TEMMUZ"
+  },
+  {
+      "PRIMARY_ID": 2016,
+      "ID": 40352,
+      "NAME": "KEMER"
+  },
+  {
+      "PRIMARY_ID": 2016,
+      "ID": null,
+      "NAME": "ASKERİ BÖLGE"
+  },
+  {
+      "PRIMARY_ID": 2016,
+      "ID": 40341,
+      "NAME": "MİMAR SİNAN"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40480,
+      "NAME": "YAVUZ SELİM"
+  },
+  {
+      "PRIMARY_ID": 2054,
+      "ID": 40772,
+      "NAME": "YUNUS EMRE"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191795,
+      "NAME": "HALLAÇLI"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 191741,
+      "NAME": "AĞAÇLI"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191897,
+      "NAME": "BUCAKLI"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 40859,
+      "NAME": "TALATPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 191757,
+      "NAME": "EMİRLİ"
+  },
+  {
+      "PRIMARY_ID": 1336,
+      "ID": 40451,
+      "NAME": "KARLITEPE"
+  },
+  {
+      "PRIMARY_ID": 2055,
+      "ID": 40465,
+      "NAME": "CUMHURİYET"
+  },
+  {
+      "PRIMARY_ID": 2014,
+      "ID": 40952,
+      "NAME": "HAMİDİYE"
+  },
+  {
+      "PRIMARY_ID": 1336,
+      "ID": 40462,
+      "NAME": "MEVLANA"
+  },
+  {
+      "PRIMARY_ID": 1421,
+      "ID": 40513,
+      "NAME": "ZÜHTÜPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1886,
+      "ID": 40213,
+      "NAME": "MURATPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1823,
+      "ID": 40587,
+      "NAME": "SÖĞÜTLÜ ÇEŞME"
+  },
+  {
+      "PRIMARY_ID": 2004,
+      "ID": 40175,
+      "NAME": "GÖZTEPE"
+  },
+  {
+      "PRIMARY_ID": 2016,
+      "ID": 40347,
+      "NAME": "MENDERES"
+  },
+  {
+      "PRIMARY_ID": 2016,
+      "ID": 40350,
+      "NAME": "FATİH"
+  },
+  {
+      "PRIMARY_ID": 2014,
+      "ID": 40951,
+      "NAME": "FATİH"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191891,
+      "NAME": "OVACIK"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 40918,
+      "NAME": "FATİH"
+  },
+  {
+      "PRIMARY_ID": 1782,
+      "ID": 40849,
+      "NAME": "KARAAĞAÇ"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191819,
+      "NAME": "YAZLIK"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40286,
+      "NAME": "MÜEYYETZADE"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 98704,
+      "NAME": "TANTAVİ"
+  },
+  {
+      "PRIMARY_ID": 2049,
+      "ID": 40577,
+      "NAME": "FERHATPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1336,
+      "ID": 40461,
+      "NAME": "KAZIM KARABEKİR"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": 40749,
+      "NAME": "ALEMDAĞ"
+  },
+  {
+      "PRIMARY_ID": 2012,
+      "ID": 40623,
+      "NAME": "ZÜMRÜTEVLER"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40804,
+      "NAME": "SALACAK"
+  },
+  {
+      "PRIMARY_ID": 2014,
+      "ID": 40944,
+      "NAME": "BATTALGAZİ"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40252,
+      "NAME": "YALIKÖY"
+  },
+  {
+      "PRIMARY_ID": 1336,
+      "ID": 40450,
+      "NAME": "PAZARİÇİ"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 99359,
+      "NAME": "ANADOLU"
+  },
+  {
+      "PRIMARY_ID": 2004,
+      "ID": 40171,
+      "NAME": "DEMİRKAPI"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191823,
+      "NAME": "BELGRAT"
+  },
+  {
+      "PRIMARY_ID": 1421,
+      "ID": 40517,
+      "NAME": "FİKİRTEPE"
+  },
+  {
+      "PRIMARY_ID": 1421,
+      "ID": 40515,
+      "NAME": "FENERYOLU"
+  },
+  {
+      "PRIMARY_ID": 1421,
+      "ID": 40520,
+      "NAME": "GÖZTEPE"
+  },
+  {
+      "PRIMARY_ID": 1421,
+      "ID": 40516,
+      "NAME": "EĞİTİM"
+  },
+  {
+      "PRIMARY_ID": 1421,
+      "ID": 40522,
+      "NAME": "SUADİYE"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": null,
+      "NAME": "ASKERİ BÖLGE"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": 40757,
+      "NAME": "MİMAR SİNAN"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 98703,
+      "NAME": "ŞERİFALİ"
+  },
+  {
+      "PRIMARY_ID": 1449,
+      "ID": 40555,
+      "NAME": "CEVİZLİ"
+  },
+  {
+      "PRIMARY_ID": 2054,
+      "ID": 40760,
+      "NAME": "İNÖNÜ"
+  },
+  {
+      "PRIMARY_ID": 1886,
+      "ID": 40209,
+      "NAME": "İSMET PAŞA"
+  },
+  {
+      "PRIMARY_ID": 2014,
+      "ID": 40954,
+      "NAME": "NECİP FAZIL"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": 40752,
+      "NAME": "NİŞANTEPE"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 40365,
+      "NAME": "MERKEZ"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 191715,
+      "NAME": "KAYNARCA"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40811,
+      "NAME": "KUZGUNCUK"
+  },
+  {
+      "PRIMARY_ID": 2014,
+      "ID": 40945,
+      "NAME": "MECİDİYE"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": 40767,
+      "NAME": "SOĞUKPINAR"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": 40754,
+      "NAME": "HAMİDİYE"
+  },
+  {
+      "PRIMARY_ID": 1739,
+      "ID": 40835,
+      "NAME": "YEŞİLTEPE"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40482,
+      "NAME": "ATATÜRK"
+  },
+  {
+      "PRIMARY_ID": 1823,
+      "ID": 40589,
+      "NAME": "GÜLTEPE"
+  },
+  {
+      "PRIMARY_ID": 1336,
+      "ID": 40449,
+      "NAME": "YILDIZTABYA"
+  },
+  {
+      "PRIMARY_ID": 2005,
+      "ID": 40181,
+      "NAME": "CUMHURİYET"
+  },
+  {
+      "PRIMARY_ID": 1336,
+      "ID": 40454,
+      "NAME": "BAĞLARBAŞI"
+  },
+  {
+      "PRIMARY_ID": 2004,
+      "ID": 40160,
+      "NAME": "YILDIZTEPE"
+  },
+  {
+      "PRIMARY_ID": 1782,
+      "ID": 40886,
+      "NAME": "EKİNOBA"
+  },
+  {
+      "PRIMARY_ID": 1449,
+      "ID": 40566,
+      "NAME": "PETROL İŞ"
+  },
+  {
+      "PRIMARY_ID": 1336,
+      "ID": 40458,
+      "NAME": "HÜRRİYET"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 181492,
+      "NAME": "MEVLANA"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40636,
+      "NAME": "HARMANDERE"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 40917,
+      "NAME": "ÇİFTLİKKÖY"
+  },
+  {
+      "PRIMARY_ID": 2014,
+      "ID": 40943,
+      "NAME": "ADİL"
+  },
+  {
+      "PRIMARY_ID": 2014,
+      "ID": 40946,
+      "NAME": "MİMAR SİNAN"
+  },
+  {
+      "PRIMARY_ID": 2014,
+      "ID": 40955,
+      "NAME": "ORHANGAZİ"
+  },
+  {
+      "PRIMARY_ID": 1421,
+      "ID": 40507,
+      "NAME": "RASİMPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1449,
+      "ID": 40569,
+      "NAME": "UĞUR MUMCU"
+  },
+  {
+      "PRIMARY_ID": 2005,
+      "ID": 40183,
+      "NAME": "YENİBOSNA MERKEZ"
+  },
+  {
+      "PRIMARY_ID": 1823,
+      "ID": 40593,
+      "NAME": "TEVFİKBEY"
+  },
+  {
+      "PRIMARY_ID": 2005,
+      "ID": 40184,
+      "NAME": "ÇOBANÇEŞME"
+  },
+  {
+      "PRIMARY_ID": 2005,
+      "ID": 40186,
+      "NAME": "ZAFER"
+  },
+  {
+      "PRIMARY_ID": 2005,
+      "ID": 40182,
+      "NAME": "KOCASİNAN MERKEZ"
+  },
+  {
+      "PRIMARY_ID": 2004,
+      "ID": 40155,
+      "NAME": "BAĞLAR"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40682,
+      "NAME": "BAHÇEKÖY MERKEZ"
+  },
+  {
+      "PRIMARY_ID": 1103,
+      "ID": 40142,
+      "NAME": "HEYBELİADA"
+  },
+  {
+      "PRIMARY_ID": 2003,
+      "ID": 40153,
+      "NAME": "YEŞİLKENT"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 40852,
+      "NAME": "İNCİRTEPE"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 40738,
+      "NAME": "ÇAKMAK"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 199723,
+      "NAME": "YENİŞEHİR"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 199721,
+      "NAME": "FİNANSKENT"
+  },
+  {
+      "PRIMARY_ID": 1336,
+      "ID": 40460,
+      "NAME": "YENİ MAHALLE"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": 40770,
+      "NAME": "KİRAZLIDERE"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 40957,
+      "NAME": "KUMBABA"
+  },
+  {
+      "PRIMARY_ID": 1823,
+      "ID": 40595,
+      "NAME": "SULTAN MURAT"
+  },
+  {
+      "PRIMARY_ID": 1886,
+      "ID": 40210,
+      "NAME": "YILDIRIM"
+  },
+  {
+      "PRIMARY_ID": 2004,
+      "ID": 40161,
+      "NAME": "YENİGÜN"
+  },
+  {
+      "PRIMARY_ID": 1823,
+      "ID": 40603,
+      "NAME": "BEŞYOL"
+  },
+  {
+      "PRIMARY_ID": 1166,
+      "ID": 40194,
+      "NAME": "ATAKÖY 2-5-6. KISIM"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191943,
+      "NAME": "YAZIMANAYIR"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191805,
+      "NAME": "KESTANELİK"
+  },
+  {
+      "PRIMARY_ID": 1103,
+      "ID": 40139,
+      "NAME": "BURGAZADA"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40263,
+      "NAME": "PİYALEPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1449,
+      "ID": 40571,
+      "NAME": "YALI"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40276,
+      "NAME": "FİRUZAĞA"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 40851,
+      "NAME": "FATİH"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191917,
+      "NAME": "KALEM"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 181502,
+      "NAME": "TURGUT ÖZAL"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191783,
+      "NAME": "AYDINLAR"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 191761,
+      "NAME": "KURNA"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191875,
+      "NAME": "İMRENLİ"
+  },
+  {
+      "PRIMARY_ID": 1823,
+      "ID": 40604,
+      "NAME": "KANARYA"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40237,
+      "NAME": "GÜMÜŞSUYU"
+  },
+  {
+      "PRIMARY_ID": 2014,
+      "ID": 40947,
+      "NAME": "TURGUT REİS"
+  },
+  {
+      "PRIMARY_ID": 1782,
+      "ID": 40885,
+      "NAME": "YENİMAHALLE"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 98706,
+      "NAME": "TEPEÜSTÜ"
+  },
+  {
+      "PRIMARY_ID": 2010,
+      "ID": 40506,
+      "NAME": "MEHMET NESİH ÖZMEN"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40820,
+      "NAME": "SELİMİYE"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 40905,
+      "NAME": "MURATBEY MERKEZ"
+  },
+  {
+      "PRIMARY_ID": 2015,
+      "ID": 40730,
+      "NAME": "ANADOLU"
+  },
+  {
+      "PRIMARY_ID": 1183,
+      "ID": 40214,
+      "NAME": "VİŞNEZADE"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 40881,
+      "NAME": "ATATÜRK"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191801,
+      "NAME": "KABAKÇA"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 191753,
+      "NAME": "PİRİNÇÇİ"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 191981,
+      "NAME": "BAKLALI"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191963,
+      "NAME": "KURNA"
+  },
+  {
+      "PRIMARY_ID": 1810,
+      "ID": 40543,
+      "NAME": "MERKEZ"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 191765,
+      "NAME": "DEMİRCİKÖY"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 191775,
+      "NAME": "RUMELİFENERİ"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191919,
+      "NAME": "KURFALLI"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191833,
+      "NAME": "YALIKÖY"
+  },
+  {
+      "PRIMARY_ID": 2054,
+      "ID": 192001,
+      "NAME": "PAŞAKÖY"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 191739,
+      "NAME": "ZERZAVATÇI"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 191855,
+      "NAME": "KURFALLI"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 40895,
+      "NAME": "GÜZELYURT"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": 191995,
+      "NAME": "KOÇULLU"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191827,
+      "NAME": "HİSARBEYLİ"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191803,
+      "NAME": "KALFA"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191815,
+      "NAME": "SUBAŞI"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": 40750,
+      "NAME": "ÇATALMEŞE"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40272,
+      "NAME": "HÜSEYİNAĞA"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40275,
+      "NAME": "CİHANGİR"
+  },
+  {
+      "PRIMARY_ID": 2054,
+      "ID": 40576,
+      "NAME": "FATİH"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 191851,
+      "NAME": "ÇAYIRDERE"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 191835,
+      "NAME": "AKÖREN"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 181498,
+      "NAME": "AKEVLER"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 191773,
+      "NAME": "KUMKÖY (KİLYOS)"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": null,
+      "NAME": "ORMAN"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191785,
+      "NAME": "ÇANAKÇA"
+  },
+  {
+      "PRIMARY_ID": 1886,
+      "ID": 40208,
+      "NAME": "YENİDOĞAN"
+  },
+  {
+      "PRIMARY_ID": 2005,
+      "ID": 40178,
+      "NAME": "ŞİRİNEVLER"
+  },
+  {
+      "PRIMARY_ID": 2005,
+      "ID": 40180,
+      "NAME": "SOĞANLI"
+  },
+  {
+      "PRIMARY_ID": 1886,
+      "ID": 40206,
+      "NAME": "TERAZİDERE"
+  },
+  {
+      "PRIMARY_ID": 1823,
+      "ID": 40590,
+      "NAME": "HALKALI MERKEZ"
+  },
+  {
+      "PRIMARY_ID": 2015,
+      "ID": 40718,
+      "NAME": "EVLİYA ÇELEBİ"
+  },
+  {
+      "PRIMARY_ID": 1449,
+      "ID": 40563,
+      "NAME": "KORDONBOYU"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40631,
+      "NAME": "KAYNARCA"
+  },
+  {
+      "PRIMARY_ID": 2054,
+      "ID": 40575,
+      "NAME": "AKPINAR"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 40903,
+      "NAME": "ATATÜRK"
+  },
+  {
+      "PRIMARY_ID": 2054,
+      "ID": 40774,
+      "NAME": "YENİDOĞAN"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 40931,
+      "NAME": "ÇANTA SANCAKTEPE"
+  },
+  {
+      "PRIMARY_ID": 2015,
+      "ID": 40717,
+      "NAME": "AYDINTEPE"
+  },
+  {
+      "PRIMARY_ID": 2015,
+      "ID": 40726,
+      "NAME": "TEPEÖREN"
+  },
+  {
+      "PRIMARY_ID": 2012,
+      "ID": 40614,
+      "NAME": "CEVİZLİ"
+  },
+  {
+      "PRIMARY_ID": 2054,
+      "ID": 40761,
+      "NAME": "KEMAL TÜRKLER"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191927,
+      "NAME": "AĞAÇDERE"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191941,
+      "NAME": "YAYLALI"
+  },
+  {
+      "PRIMARY_ID": 2055,
+      "ID": 40477,
+      "NAME": "HABİBLER"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191909,
+      "NAME": "GÖKSU"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 191731,
+      "NAME": "İSHAKLI"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 191707,
+      "NAME": "RİVA"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 40934,
+      "NAME": "DEĞİRMENKÖY İSMETPAŞA"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 40866,
+      "NAME": "YEŞİLKENT"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 181504,
+      "NAME": "AKŞEMSEDDİN"
+  },
+  {
+      "PRIMARY_ID": 2055,
+      "ID": null,
+      "NAME": "ASKERİ BÖLGE"
+  },
+  {
+      "PRIMARY_ID": 1823,
+      "ID": 40594,
+      "NAME": "KEMALPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1782,
+      "ID": 40845,
+      "NAME": "ATATÜRK"
+  },
+  {
+      "PRIMARY_ID": 1823,
+      "ID": 40599,
+      "NAME": "YARIMBURGAZ"
+  },
+  {
+      "PRIMARY_ID": 2050,
+      "ID": 40598,
+      "NAME": "ALTINŞEHİR"
+  },
+  {
+      "PRIMARY_ID": 1449,
+      "ID": 40565,
+      "NAME": "ORTA"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40781,
+      "NAME": "ALTUNİZADE"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 98694,
+      "NAME": "HUZUR"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 99133,
+      "NAME": "ŞEHREMİNİ"
+  },
+  {
+      "PRIMARY_ID": 2049,
+      "ID": 99519,
+      "NAME": "MİMAR SİNAN"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 181486,
+      "NAME": "PİRİ REİS"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40273,
+      "NAME": "ŞEHİT MUHTAR"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40271,
+      "NAME": "KAMER HATUN"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40708,
+      "NAME": "PAŞA"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40709,
+      "NAME": "TEŞVİKİYE"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40712,
+      "NAME": "İZZET PAŞA"
+  },
+  {
+      "PRIMARY_ID": 1823,
+      "ID": 40607,
+      "NAME": "CENNET"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 40369,
+      "NAME": "MİMAR SİNAN"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 98665,
+      "NAME": "AZİZ MAHMUT HÜDAYİ"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40704,
+      "NAME": "MASLAK"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 40379,
+      "NAME": "GÖKTÜRK MERKEZ"
+  },
+  {
+      "PRIMARY_ID": 2014,
+      "ID": 40956,
+      "NAME": "AKŞEMSETTİN"
+  },
+  {
+      "PRIMARY_ID": 2016,
+      "ID": 40355,
+      "NAME": "ORUÇREİS"
+  },
+  {
+      "PRIMARY_ID": 1823,
+      "ID": 40588,
+      "NAME": "KARTALTEPE"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 99137,
+      "NAME": "AKŞEMSETTİN"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40397,
+      "NAME": "İSKENDERPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40302,
+      "NAME": "KEÇECİ PİRİ"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191809,
+      "NAME": "OKLALI"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191971,
+      "NAME": "ULUPELİT"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 181494,
+      "NAME": "MEHMET AKİF ERSOY"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191791,
+      "NAME": "GÖKÇEALİ"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 40936,
+      "NAME": "KAVAKLI İSTİKLAL"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40270,
+      "NAME": "KALYONCU KULLUĞU"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191951,
+      "NAME": "BIÇKIDERE"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191877,
+      "NAME": "KABAKOZ"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 191723,
+      "NAME": "MAHMUTŞEVKETPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40300,
+      "NAME": "BEDRETTİN"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 99358,
+      "NAME": "MUSTAFA KEMAL PAŞA"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 40860,
+      "NAME": "YENİKENT"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 191771,
+      "NAME": "KISIRKAYA"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 191847,
+      "NAME": "BEYCİLER"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40797,
+      "NAME": "GÜZELTEPE"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40653,
+      "NAME": "YENİŞEHİR"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 40378,
+      "NAME": "YEŞİLPINAR"
+  },
+  {
+      "PRIMARY_ID": 2055,
+      "ID": 40466,
+      "NAME": "YUNUS EMRE"
+  },
+  {
+      "PRIMARY_ID": 1421,
+      "ID": 40521,
+      "NAME": "CADDEBOSTAN"
+  },
+  {
+      "PRIMARY_ID": 1449,
+      "ID": 40556,
+      "NAME": "CUMHURİYET"
+  },
+  {
+      "PRIMARY_ID": 1449,
+      "ID": 40561,
+      "NAME": "HÜRRİYET"
+  },
+  {
+      "PRIMARY_ID": 2049,
+      "ID": 40526,
+      "NAME": "YENİSAHRA"
+  },
+  {
+      "PRIMARY_ID": 1421,
+      "ID": 40529,
+      "NAME": "KOZYATAĞI"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40243,
+      "NAME": "ANADOLU HİSARI"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 40880,
+      "NAME": "AKÇABURGAZ"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 181484,
+      "NAME": "NECİP FAZIL KISAKÜREK"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40274,
+      "NAME": "KATİPMUSTAFA ÇELEBİ"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": 191997,
+      "NAME": "REŞADİYE"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40333,
+      "NAME": "SULTAN AHMET"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40310,
+      "NAME": "BİNBİRDİREK"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40297,
+      "NAME": "KEMANKEŞ KARAMUSTAFAPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 191751,
+      "NAME": "ODAYERİ"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191861,
+      "NAME": "AHMETLİ"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191955,
+      "NAME": "ESENCELİ"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40390,
+      "NAME": "KOCA MUSTAFAPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40258,
+      "NAME": "ÇENGELDERE"
+  },
+  {
+      "PRIMARY_ID": 2012,
+      "ID": 40609,
+      "NAME": "İDEALTEPE"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 40367,
+      "NAME": "İSLAMBEY"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 191853,
+      "NAME": "DANAMANDIRA"
+  },
+  {
+      "PRIMARY_ID": 1103,
+      "ID": 40140,
+      "NAME": "MADEN"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 40865,
+      "NAME": "CUMHURİYET"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": 40765,
+      "NAME": "TAŞDELEN"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40242,
+      "NAME": "KANLICA"
+  },
+  {
+      "PRIMARY_ID": 2015,
+      "ID": 40723,
+      "NAME": "İSTASYON"
+  },
+  {
+      "PRIMARY_ID": 2054,
+      "ID": 40763,
+      "NAME": "SARIGAZİ"
+  },
+  {
+      "PRIMARY_ID": 1336,
+      "ID": 40455,
+      "NAME": "MERKEZ"
+  },
+  {
+      "PRIMARY_ID": 1336,
+      "ID": 40452,
+      "NAME": "YENİDOĞAN"
+  },
+  {
+      "PRIMARY_ID": 1449,
+      "ID": 40568,
+      "NAME": "TOPSELVİ"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40648,
+      "NAME": "YEŞİLBAĞLAR"
+  },
+  {
+      "PRIMARY_ID": 2012,
+      "ID": 40613,
+      "NAME": "ALTINTEPE"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 40938,
+      "NAME": "ORTAKÖY"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": 40758,
+      "NAME": "ÖMERLİ"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40306,
+      "NAME": "SÜTLÜCE"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40323,
+      "NAME": "MESİHPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40422,
+      "NAME": "DERVİŞ ALİ"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40295,
+      "NAME": "PÜRTELAŞ HASAN EFENDİ"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40294,
+      "NAME": "ÖMER AVNİ"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40265,
+      "NAME": "YENİŞEHİR"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 99128,
+      "NAME": "CERRAHPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191831,
+      "NAME": "ORMANLI"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 191987,
+      "NAME": "KARABURUN"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 191725,
+      "NAME": "BOZHANE"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 98686,
+      "NAME": "ARMAĞANEVLER"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 40959,
+      "NAME": "ÇAVUŞ"
+  },
+  {
+      "PRIMARY_ID": 2015,
+      "ID": 40731,
+      "NAME": "FATİH"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40686,
+      "NAME": "AYAZAĞA"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40815,
+      "NAME": "MURATREİS"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 40855,
+      "NAME": "BAĞLARÇEŞME"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191967,
+      "NAME": "SAHİLKÖY"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 181480,
+      "NAME": "OSMANGAZİ"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 191709,
+      "NAME": "DERESEKİ"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 40862,
+      "NAME": "ESENKENT"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 191777,
+      "NAME": "USKUMRUKÖY"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191957,
+      "NAME": "KARAKİRAZ"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191821,
+      "NAME": "BAŞAK"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40259,
+      "NAME": "ÇİFTLİK"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 191743,
+      "NAME": "AKPINAR"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191889,
+      "NAME": "MEŞRUTİYET"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191817,
+      "NAME": "YAYLACIK"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191903,
+      "NAME": "GEREDELİ"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 191779,
+      "NAME": "ZEKERİYAKÖY"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 99145,
+      "NAME": "BALAT"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 191985,
+      "NAME": "BOYALIK"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191953,
+      "NAME": "DOĞANCILI"
+  },
+  {
+      "PRIMARY_ID": 1183,
+      "ID": 40228,
+      "NAME": "KURUÇEŞME"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 191977,
+      "NAME": "TAYAKADIN"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 191749,
+      "NAME": "İHSANİYE"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 98668,
+      "NAME": "MİMAR SİNAN"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40683,
+      "NAME": "BAHÇEKÖY YENİMAHALLE"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191937,
+      "NAME": "SORTULLU"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 181482,
+      "NAME": "HÜRRİYET"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191929,
+      "NAME": "ÇENGİLLİ"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 191845,
+      "NAME": "BEKİRLİ"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 181506,
+      "NAME": "YUNUS EMRE"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40819,
+      "NAME": "SELAMİ ALİ"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 98690,
+      "NAME": "DUMLUPINAR"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191865,
+      "NAME": "BOZGOCA"
+  },
+  {
+      "PRIMARY_ID": 2014,
+      "ID": null,
+      "NAME": "TEFERRÜÇ TEPE ORMANI"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40241,
+      "NAME": "ÇUBUKLU"
+  },
+  {
+      "PRIMARY_ID": 1708,
+      "ID": 40806,
+      "NAME": "KANDİLLİ"
+  },
+  {
+      "PRIMARY_ID": 1782,
+      "ID": 40847,
+      "NAME": "DİZDARİYE"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40494,
+      "NAME": "ÇİLİNGİR"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191949,
+      "NAME": "AVCIKORU"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40679,
+      "NAME": "SARIYER YENİMAHALLE"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40633,
+      "NAME": "BATI"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 181500,
+      "NAME": "ZAFER"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 40861,
+      "NAME": "ARDIÇLI"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 181518,
+      "NAME": "AŞIK VEYSEL"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40338,
+      "NAME": "TAYA HATUN"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40334,
+      "NAME": "SURURİ"
+  },
+  {
+      "PRIMARY_ID": 1782,
+      "ID": 40884,
+      "NAME": "KUMBURGAZ"
+  },
+  {
+      "PRIMARY_ID": 1336,
+      "ID": 40459,
+      "NAME": "BARBAROS HAYRETTİN PAŞA"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 191713,
+      "NAME": "GÖRELE"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 191717,
+      "NAME": "POLONEZKÖY"
+  },
+  {
+      "PRIMARY_ID": 2004,
+      "ID": 40172,
+      "NAME": "FATİH"
+  },
+  {
+      "PRIMARY_ID": 2050,
+      "ID": 40585,
+      "NAME": "ZİYA GÖKALP"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 99357,
+      "NAME": "NENEHATUN"
+  },
+  {
+      "PRIMARY_ID": 2055,
+      "ID": 40467,
+      "NAME": "75. YIL"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 40684,
+      "NAME": "BAHÇEKÖY KEMER"
+  },
+  {
+      "PRIMARY_ID": 1183,
+      "ID": 40230,
+      "NAME": "NİSBETİYE"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 99139,
+      "NAME": "KARAGÜMRÜK"
+  },
+  {
+      "PRIMARY_ID": 2049,
+      "ID": 40746,
+      "NAME": "YENİ ÇAMLICA"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 99142,
+      "NAME": "ZEYREK"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40314,
+      "NAME": "HACI KADIN"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40315,
+      "NAME": "HOBYAR"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40311,
+      "NAME": "CANKURTARAN"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 40879,
+      "NAME": "İSTİKLAL"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191867,
+      "NAME": "ÇAYIRBAŞI"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191887,
+      "NAME": "KORUCU"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191793,
+      "NAME": "GÜMÜŞPINAR"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 40856,
+      "NAME": "NAMIK KEMAL"
+  },
+  {
+      "PRIMARY_ID": 2003,
+      "ID": 40150,
+      "NAME": "MUSTAFA KEMALPAŞA"
+  },
+  {
+      "PRIMARY_ID": 2012,
+      "ID": 40615,
+      "NAME": "BAĞLARBAŞI"
+  },
+  {
+      "PRIMARY_ID": 1183,
+      "ID": 40217,
+      "NAME": "CİHANNÜMA"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40685,
+      "NAME": "19 MAYIS"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40298,
+      "NAME": "BEREKETZADE"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40694,
+      "NAME": "FULYA"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 40864,
+      "NAME": "PINAR"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 191737,
+      "NAME": "PAŞAMANDIRA"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 191857,
+      "NAME": "KÜÇÜK SİNEKLİ"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191825,
+      "NAME": "CELEPKÖY"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191881,
+      "NAME": "KARACAKÖY"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 191745,
+      "NAME": "ÇİFTALAN"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191863,
+      "NAME": "AKÇAKESE"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 40652,
+      "NAME": "YENİ"
+  },
+  {
+      "PRIMARY_ID": 1810,
+      "ID": 40547,
+      "NAME": "SULTAN SELİM"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 191989,
+      "NAME": "YASSIÖREN"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 191729,
+      "NAME": "GÖLLÜ"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 191755,
+      "NAME": "BALLICA"
+  },
+  {
+      "PRIMARY_ID": 1421,
+      "ID": 40525,
+      "NAME": "SAHRAYICEDİT"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191935,
+      "NAME": "OSMANKÖY"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191939,
+      "NAME": "YAKA"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 40921,
+      "NAME": "YENİ"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40387,
+      "NAME": "SEYYİD ÖMER"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 191747,
+      "NAME": "IŞIKLAR"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40478,
+      "NAME": "ARNAVUTKÖY MERKEZ"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40915,
+      "NAME": "DURUSU"
+  },
+  {
+      "PRIMARY_ID": 2055,
+      "ID": 40469,
+      "NAME": "GAZİ"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40256,
+      "NAME": "ANADOLU KAVAĞI"
+  },
+  {
+      "PRIMARY_ID": 1421,
+      "ID": 40514,
+      "NAME": "FENERBAHÇE"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40481,
+      "NAME": "İMRAHOR"
+  },
+  {
+      "PRIMARY_ID": 1739,
+      "ID": 40831,
+      "NAME": "SÜMER"
+  },
+  {
+      "PRIMARY_ID": 1739,
+      "ID": 40834,
+      "NAME": "GÖKALP"
+  },
+  {
+      "PRIMARY_ID": 1823,
+      "ID": 40605,
+      "NAME": "İSTASYON"
+  },
+  {
+      "PRIMARY_ID": 1166,
+      "ID": 40195,
+      "NAME": "YEŞİLYURT"
+  },
+  {
+      "PRIMARY_ID": 2005,
+      "ID": 40187,
+      "NAME": "HÜRRİYET"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 191735,
+      "NAME": "ÖĞÜMCE"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191907,
+      "NAME": "GÖKMAŞLI"
+  },
+  {
+      "PRIMARY_ID": 2050,
+      "ID": 40597,
+      "NAME": "GÜVERCİNTEPE"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 99130,
+      "NAME": "YEDİKULE"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 40747,
+      "NAME": "ESENŞEHİR"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 40924,
+      "NAME": "KÜÇÜK KILIÇLI"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": 191993,
+      "NAME": "HÜSEYİNLİ"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 99144,
+      "NAME": "YAVUZ SULTAN SELİM"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 99146,
+      "NAME": "AYVANSARAY"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 99141,
+      "NAME": "ALİ KUŞÇU"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 99136,
+      "NAME": "MOLLA GÜRANİ"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 181488,
+      "NAME": "BARBAROS HAYRETTİN PAŞA"
+  },
+  {
+      "PRIMARY_ID": 1449,
+      "ID": 40557,
+      "NAME": "YAKACIK ÇARŞI"
+  },
+  {
+      "PRIMARY_ID": 2004,
+      "ID": 40173,
+      "NAME": "FEVZİ ÇAKMAK"
+  },
+  {
+      "PRIMARY_ID": 2012,
+      "ID": 40608,
+      "NAME": "ÇINAR"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 40261,
+      "NAME": "YAVUZ SELİM"
+  },
+  {
+      "PRIMARY_ID": 2016,
+      "ID": 40348,
+      "NAME": "BİRLİK"
+  },
+  {
+      "PRIMARY_ID": 2004,
+      "ID": 40174,
+      "NAME": "KEMALPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 40743,
+      "NAME": "KAZIM KARABEKİR"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 181522,
+      "NAME": "KOZA"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 40854,
+      "NAME": "MEHTERÇEŞME"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191879,
+      "NAME": "KARABEYLİ"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191899,
+      "NAME": "ÇATAKLI"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191947,
+      "NAME": "ALACALI"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 191837,
+      "NAME": "ÇELTİK"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 40329,
+      "NAME": "NİŞANCA"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191913,
+      "NAME": "İSAKÖY"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191931,
+      "NAME": "DEĞİRMENÇAYIRI"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 181526,
+      "NAME": "BATTALGAZİ"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 191841,
+      "NAME": "SEYMEN"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40301,
+      "NAME": "CAMİİKEBİR"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40268,
+      "NAME": "KÜÇÜK PİYALE"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": 40769,
+      "NAME": "CUMHURİYET"
+  },
+  {
+      "PRIMARY_ID": 2054,
+      "ID": 40776,
+      "NAME": "HİLAL"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40285,
+      "NAME": "HACIMİMİ"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40282,
+      "NAME": "EVLİYA ÇELEBİ"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 40960,
+      "NAME": "BALİBEY"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40689,
+      "NAME": "DUATEPE"
+  },
+  {
+      "PRIMARY_ID": 2049,
+      "ID": 99517,
+      "NAME": "YENİŞEHİR"
+  },
+  {
+      "PRIMARY_ID": 2012,
+      "ID": 40610,
+      "NAME": "FEYZULLAH"
+  },
+  {
+      "PRIMARY_ID": 1449,
+      "ID": 40564,
+      "NAME": "ORHANTEPE"
+  },
+  {
+      "PRIMARY_ID": 2015,
+      "ID": 40719,
+      "NAME": "POSTANE"
+  },
+  {
+      "PRIMARY_ID": 1835,
+      "ID": 191759,
+      "NAME": "GÖÇBEYLİ"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191933,
+      "NAME": "HASANLI"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 40937,
+      "NAME": "KAVAKLI HÜRRİYET"
+  },
+  {
+      "PRIMARY_ID": 1449,
+      "ID": null,
+      "NAME": "AYDOS DEVLET ORMANI"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 181490,
+      "NAME": "GÖKEVLER"
+  },
+  {
+      "PRIMARY_ID": 1782,
+      "ID": 140374,
+      "NAME": "SİNANOBA"
+  },
+  {
+      "PRIMARY_ID": 1663,
+      "ID": 40695,
+      "NAME": "GÜLBAHAR"
+  },
+  {
+      "PRIMARY_ID": 2015,
+      "ID": 40732,
+      "NAME": "MESCİT"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 99127,
+      "NAME": "AKSARAY"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191799,
+      "NAME": "İNCEĞİZ"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 40863,
+      "NAME": "ORHAN GAZİ"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 191859,
+      "NAME": "SAYALAR"
+  },
+  {
+      "PRIMARY_ID": 2054,
+      "ID": 40578,
+      "NAME": "EYÜP SULTAN"
+  },
+  {
+      "PRIMARY_ID": 2055,
+      "ID": 40476,
+      "NAME": "MALKOÇOĞLU"
+  },
+  {
+      "PRIMARY_ID": 1237,
+      "ID": 191781,
+      "NAME": "AKALAN"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191901,
+      "NAME": "ÇELEBİ"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191973,
+      "NAME": "ÜVEZLİ"
+  },
+  {
+      "PRIMARY_ID": 2049,
+      "ID": 40530,
+      "NAME": "İÇERENKÖY"
+  },
+  {
+      "PRIMARY_ID": 1183,
+      "ID": 40222,
+      "NAME": "GAYRETTEPE"
+  },
+  {
+      "PRIMARY_ID": 1183,
+      "ID": 40224,
+      "NAME": "MECİDİYE"
+  },
+  {
+      "PRIMARY_ID": 1336,
+      "ID": 40457,
+      "NAME": "FEVZİ ÇAKMAK"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40281,
+      "NAME": "ASMALI MESCİT"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40287,
+      "NAME": "TOMTOM"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40483,
+      "NAME": "BOĞAZKÖY İSTİKLAL"
+  },
+  {
+      "PRIMARY_ID": 1421,
+      "ID": 40519,
+      "NAME": "MERDİVENKÖY"
+  },
+  {
+      "PRIMARY_ID": 1421,
+      "ID": 40523,
+      "NAME": "BOSTANCI"
+  },
+  {
+      "PRIMARY_ID": 2054,
+      "ID": 40773,
+      "NAME": "MEVLANA"
+  },
+  {
+      "PRIMARY_ID": 1782,
+      "ID": 40883,
+      "NAME": "GÜZELCE"
+  },
+  {
+      "PRIMARY_ID": 2052,
+      "ID": 40751,
+      "NAME": "EKŞİOĞLU"
+  },
+  {
+      "PRIMARY_ID": 1782,
+      "ID": 40850,
+      "NAME": "19 MAYIS"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191873,
+      "NAME": "İMRENDERE"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 40941,
+      "NAME": "BÜYÜK ÇAVUŞLU"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 191701,
+      "NAME": "AKBABA"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 191727,
+      "NAME": "CUMHURİYET"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 191703,
+      "NAME": "ALİBAHADIR"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 181514,
+      "NAME": "ÇINAR"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 181496,
+      "NAME": "ÜÇEVLER"
+  },
+  {
+      "PRIMARY_ID": 2050,
+      "ID": 191991,
+      "NAME": "ŞAMLAR"
+  },
+  {
+      "PRIMARY_ID": 1823,
+      "ID": 40582,
+      "NAME": "ATAKENT"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 191975,
+      "NAME": "HACIMAŞLI"
+  },
+  {
+      "PRIMARY_ID": 2014,
+      "ID": 40953,
+      "NAME": "YAVUZ SELİM"
+  },
+  {
+      "PRIMARY_ID": 2014,
+      "ID": 40949,
+      "NAME": "ABDURRAHMANGAZİ"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191945,
+      "NAME": "YEŞİLVADİ"
+  },
+  {
+      "PRIMARY_ID": 1185,
+      "ID": 191733,
+      "NAME": "KILIÇLI"
+  },
+  {
+      "PRIMARY_ID": 1604,
+      "ID": 191767,
+      "NAME": "GARİPÇE"
+  },
+  {
+      "PRIMARY_ID": 1852,
+      "ID": 40742,
+      "NAME": "AŞAĞI DUDULLU"
+  },
+  {
+      "PRIMARY_ID": 2053,
+      "ID": 40853,
+      "NAME": "İNÖNÜ"
+  },
+  {
+      "PRIMARY_ID": 1186,
+      "ID": 40303,
+      "NAME": "PİRİPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191965,
+      "NAME": "ORUÇOĞLU"
+  },
+  {
+      "PRIMARY_ID": 1659,
+      "ID": 191961,
+      "NAME": "KÖMÜRLÜK"
+  },
+  {
+      "PRIMARY_ID": 2016,
+      "ID": 40340,
+      "NAME": "ÇİFTE HAVUZLAR"
+  },
+  {
+      "PRIMARY_ID": 1782,
+      "ID": 140376,
+      "NAME": "MİMAROBA"
+  },
+  {
+      "PRIMARY_ID": 2050,
+      "ID": 40871,
+      "NAME": "BAHÇEŞEHİR 1. KISIM"
+  },
+  {
+      "PRIMARY_ID": 1886,
+      "ID": 40211,
+      "NAME": "KARTALTEPE"
+  },
+  {
+      "PRIMARY_ID": 2010,
+      "ID": 40500,
+      "NAME": "GÜVEN"
+  },
+  {
+      "PRIMARY_ID": 2016,
+      "ID": 40346,
+      "NAME": "KAZIM KARABEKİR"
+  },
+  {
+      "PRIMARY_ID": 2048,
+      "ID": 40910,
+      "NAME": "DELİKLİKAYA"
+  },
+  {
+      "PRIMARY_ID": 1449,
+      "ID": 40567,
+      "NAME": "SOĞANLIK YENİ"
+  },
+  {
+      "PRIMARY_ID": 1336,
+      "ID": 40463,
+      "NAME": "KARAYOLLARI"
+  },
+  {
+      "PRIMARY_ID": 1810,
+      "ID": 40552,
+      "NAME": "YAHYA KEMAL"
+  },
+  {
+      "PRIMARY_ID": 1782,
+      "ID": 40890,
+      "NAME": "ULUS"
+  },
+  {
+      "PRIMARY_ID": 1810,
+      "ID": 40542,
+      "NAME": "HÜRRİYET"
+  },
+  {
+      "PRIMARY_ID": 1327,
+      "ID": 99140,
+      "NAME": "ATİKALİ"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 40935,
+      "NAME": "GÜMÜŞYAKA"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 40930,
+      "NAME": "ÇANTA BALABAN"
+  },
+  {
+      "PRIMARY_ID": 1810,
+      "ID": 40550,
+      "NAME": "TALATPAŞA"
+  },
+  {
+      "PRIMARY_ID": 1782,
+      "ID": 40887,
+      "NAME": "MİMAR SİNAN"
+  },
+  {
+      "PRIMARY_ID": 1325,
+      "ID": 40366,
+      "NAME": "GÜZELTEPE"
+  },
+  {
+      "PRIMARY_ID": 1622,
+      "ID": 40933,
+      "NAME": "DEĞİRMENKÖY FEVZİPAŞA"
+  },
+  {
+      "PRIMARY_ID": 2015,
+      "ID": 40721,
+      "NAME": "MİMAR SİNAN"
+  },
+  {
+      "PRIMARY_ID": 1782,
+      "ID": 40888,
+      "NAME": "MURAT ÇESME"
+  },
+  {
+      "PRIMARY_ID": 2016,
+      "ID": 317396,
+      "NAME": "15 TEMMUZ"
+  }
+]

@@ -1,0 +1,28 @@
+﻿<script src="~/js/site.js"></script>
+<link rel="stylesheet" href="~/css/site.css">
+
+
+<body>
+    @* Search bar input *@
+    <input type="text" id="search-input" placeholder="Mahalle Ara">
+    @* Display for number of records found *@
+    <label id="filter-info"></label>
+
+    <table id="search-table" class="table table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">NAME</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+
+    <label id="no-result" hidden="hidden"> No Result </label>
+</body>
+
+
+<script>
+    // On window load, load the count of rows
+    window.onload = SearchRows.loadPageAndAddEvents();
+</script>
