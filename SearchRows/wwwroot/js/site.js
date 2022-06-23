@@ -1,6 +1,7 @@
 ﻿// Scripts used in pharmacylist/index
 SearchRows = {
 
+    // Debounces the given function for the given time
     debounce: function(func, timeout = 300){
         let timer;
         return (...args) => {
@@ -53,7 +54,7 @@ SearchRows = {
         primaryRows.forEach((primaryRow) => {
             // Get its name
             let primaryName = primaryRow.dataset.name.toUpperCase();
-            primaryName = primaryName.replace("\u0130", "I");
+            primaryName = primaryName.replaceAll("\u0130", "I");
 
             // Get its id
             let primaryId = primaryRow.dataset.id;
@@ -82,7 +83,7 @@ SearchRows = {
                 secondaryRows.forEach((secondaryRow) => {
                     // Get its name
                     let secondaryName = secondaryRow.dataset.name.toUpperCase();
-                    secondaryName = secondaryName.replace("\u0130", "I");
+                    secondaryName = secondaryName.replaceAll("\u0130", "I");
 
                     // Evaluate it against the filter
                     if (secondaryName.indexOf(filter) > -1) {
@@ -173,7 +174,7 @@ SearchRows = {
             expandButton.dataset.buttonType = "primary-row-expand-button";
             expandButton.dataset.primaryRowId = primaryRow.ID;
             expandButton.hidden = true;
-            expandButton.appendChild(document.createTextNode("Expand"));
+            expandButton.append(document.createTextNode("Expand"));
 
             // Collapse button
             let collapseButton = document.createElement("button");
@@ -181,12 +182,10 @@ SearchRows = {
             collapseButton.dataset.buttonType = "primary-row-collapse-button";
             collapseButton.dataset.primaryRowId = primaryRow.ID;
             collapseButton.hidden = false;
-            collapseButton.appendChild(document.createTextNode("Collapse"));
+            collapseButton.append(document.createTextNode("Collapse"));
 
             // Add text and buttons to header cell
-            headerCell.appendChild(name);
-            headerCell.appendChild(expandButton);
-            headerCell.appendChild(collapseButton);
+            headerCell.append(name, expandButton, collapseButton);
 
             // Insert row into table
             let pRow = table.insertRow(-1);
@@ -197,7 +196,7 @@ SearchRows = {
             pRow.dataset.name = primaryRow.NAME;
 
             // Add th to cell
-            pRow.appendChild(headerCell);
+            pRow.append(headerCell);
 
             // For each secondary row
             row2Data.forEach((secondaryRow) => {
@@ -209,7 +208,7 @@ SearchRows = {
                     // Text for th
                     let name = document.createTextNode(secondaryRow.NAME);
                     // Add text to header cell
-                    headerCell2.appendChild(name);
+                    headerCell2.append(name);
 
                     // Insert row into table
                     let sRow = table.insertRow(-1);
@@ -220,9 +219,8 @@ SearchRows = {
                     sRow.dataset.name = secondaryRow.NAME;
                     sRow.dataset.primaryRowId = secondaryRow.PRIMARY_ID;
                     sRow.dataset.filterHit = true;
-
                     // Add th to cell
-                    sRow.appendChild(headerCell2);
+                    sRow.append(headerCell2);
                 }
             })
         })
